@@ -1,0 +1,19 @@
+Various types of Data Structures will be implemented
+
+1. Sets
+2. Lists
+3. Collections
+
+Tries
+Key Points
+The time complexity of creating a trie is O(m*n) where m = number of words in a trie and n = average length of each word.
+
+Inserting a node in a trie has a time complexity of O(n) where n = length of the word we are trying to insert.
+
+Inserting a node in a trie has a space complexity of O(n) where n = length of the word we are trying to insert.
+
+Time complexity for searching a key(word) in a trie is O(n) where n = length of the word we are searching.
+
+Space complexity for searching a key(word) in a trie is O(1).
+
+Searching for a prefix of a key(word) also has a time complexity of O(n) and space complexity of O(1).
